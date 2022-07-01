@@ -10,10 +10,10 @@
     cd SD_Project/
     
 ### Composer Install
-
-    composer update
     
     composer install
+    
+    composer update
     
 ### For Environment Variable Create
  
